@@ -1,0 +1,2 @@
+
+    print(fib[i], end=" ")
